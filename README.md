@@ -39,6 +39,5 @@ For a Quick Discovery Scan:
 network-map-scanner -sn [Target IP/Range]
 For a Full Port & Service Scan:
 network-map-scanner -sV -A [Target IP]
-
 Important Disclaimer
 Legal Notice: This tool is intended for educational purposes and authorized security testing only. Using this scanner against networks or systems without explicit permission from the owner is illegal and unethical. Always ensure you have written authorization before performing a network scan.
