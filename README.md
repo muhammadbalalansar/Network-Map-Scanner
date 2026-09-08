@@ -1,7 +1,5 @@
 **By Muhammad Balal Ansar (Cyber Security Expert)**
 
-
-
 To create a professional project based on Nmap under the name "Network Map Scanner," you need to present it as a tool designed for network discovery and security auditing.
 
 Below is a comprehensive description in English that you can use for your project documentation, README file, or presentation.
