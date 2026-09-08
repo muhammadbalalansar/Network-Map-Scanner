@@ -37,7 +37,6 @@ To get started with your Network Map Scanner, you can use the following command 
 
 For a Quick Discovery Scan:
 network-map-scanner -sn [Target IP/Range]
-
 For a Full Port & Service Scan:
 network-map-scanner -sV -A [Target IP]
 
